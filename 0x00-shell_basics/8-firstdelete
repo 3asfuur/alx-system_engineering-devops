@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf  -m 777 /tmp/my_first_directory/betty
+rm -rf ` /tmp/my_first_directory/betty
