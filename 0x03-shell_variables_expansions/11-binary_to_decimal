@@ -1,2 +1,2 @@
-11-binary_to_decimal
+#!/bin/bash
 echo $((2#$BINARY))
