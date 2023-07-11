@@ -1,0 +1,2 @@
+11-binary_to_decimal
+echo $((2#$BINARY))
